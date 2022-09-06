@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.silva\\source\\repos\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj",
+      "projectUniqueName": "C:\\Users\\andre.silva\\Git\\repoteste\\ConsoleTeste\\ConsoleTeste.csproj",
       "projectName": "ConsoleTeste",
-      "projectPath": "C:\\Users\\andre.silva\\source\\repos\\ConsoleTeste\\ConsoleTeste\\ConsoleTeste.csproj",
+      "projectPath": "C:\\Users\\andre.silva\\Git\\repoteste\\ConsoleTeste\\ConsoleTeste.csproj",
       "packagesPath": "C:\\Users\\andre.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.silva\\source\\repos\\ConsoleTeste\\ConsoleTeste\\obj\\",
+      "outputPath": "C:\\Users\\andre.silva\\Git\\repoteste\\ConsoleTeste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
